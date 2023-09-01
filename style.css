@@ -1,0 +1,19 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 25% 0 25%;
+}
+
+h1 {
+    text-decoration: underline 1.5px;
+}
+
+#counter {
+    margin-left: 33%;
+}
+
+#text-zone {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 33%;
+}
